@@ -4,20 +4,20 @@
 
 $base-font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", "Segoe UI Emoji", "Segoe UI Symbol", "Apple Color Emoji", Roboto, Helvetica, Arial, sans-serif !default;
 $code-font-family: "Menlo", "Inconsolata", "Consolas", "Roboto Mono", "Ubuntu Mono", "Liberation Mono", "Courier New", monospace;
-$base-font-size:   39px !default;
-$base-font-weight: 400 !default;
+$base-font-size:   25px !default;
+$base-font-weight: 150 !default;
 $small-font-size:  $base-font-size * 0.135!default;
 $base-line-height: 1.5 !default;
 
-$spacing-unit:     30px !default;
+$spacing-unit:     15px !default;
 
 $table-text-align: left !default;
 
 // Width of the content area
-$content-width:    800px !default;
+$content-width:    200px !default;
 
-$on-palm:          600px !default;
-$on-laptop:        800px !default;
+$on-palm:          100px !default;
+$on-laptop:        200px !default;
 
 $on-medium:        $on-palm !default;
 $on-large:         $on-laptop !default;
