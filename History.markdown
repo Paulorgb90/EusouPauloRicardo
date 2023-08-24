@@ -2,13 +2,7 @@
 
 ### Documentation
 
-  * Forward port v2.5.1 release (#399)
-  * Docs: remove Google+ (#373)
-  * Update README section on adding favicons to site (#438)
-  * Fix custom-styles.scss name in README (#610)
-  * Improve the msg to enable disqus in README (#627)
-  * Make docs consistent with code (#657)
-  * Highlight that the base branch is v3 (#719)
+  * TEXTE TEXTE TEXTE
 
 ### Minor Enhancements
 
